@@ -8,6 +8,10 @@
   background-color: #71bdb0;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 #projects {
   background-color: #71bdb0;
 }
