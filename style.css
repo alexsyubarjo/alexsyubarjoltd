@@ -8,14 +8,15 @@
   background-color: #71bdb0;
 }
 
-body {
-  overflow-x: hidden;
-}
-
 #projects {
   background-color: #71bdb0;
 }
 
 section {
   padding-top: 5rem;
+}
+
+  body {
+    overflow-x: hidden;
+  }
 }
