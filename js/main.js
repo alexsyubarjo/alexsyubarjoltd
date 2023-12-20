@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Syubarjo.", "Freelancer.", "Owner Dalqed Photoind.", "Founder Dawetku.id."],
+      strings: ["Alex Syubarjo.", "Freelancer.", "FROTEND,UI/UX,FOTOGRAFI.", "PART OF ALEXSYUBARJOLTD."],
       typeSpeed: 100,
       loop: true,
     });
